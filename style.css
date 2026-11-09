@@ -92,4 +92,6 @@ footer {
     text-align: center;
     font-size: 14px;
     color: #526174;
-}
+ }  table,td {border: 1px solid black;}
+    caption {front- color : yellow;}
+    td { text-aling : center;} 
